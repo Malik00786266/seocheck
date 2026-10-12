@@ -1,0 +1,6 @@
+{
+  "name": "SEO Article Intelligence",
+  "description": "Complete SEO & Content Quality Auditor — analyze articles against real Google Search results, evaluate writing quality and originality, audit heading hierarchy, and get evidence-based improvements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
